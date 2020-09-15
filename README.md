@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-A COVID-19 Tracker crated using React JS.
+A COVID-19 Tracker created using React JS.
 Website Link - https://corona-livetracker.web.app/
 
 ## Available Scripts
