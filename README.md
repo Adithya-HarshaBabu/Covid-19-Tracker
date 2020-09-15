@@ -1,5 +1,7 @@
 # React COVID Tracker
-A COVID-19 Tracker crated using React JS
+
+A COVID-19 Tracker crated using React JS.
+Website Link - https://corona-livetracker.web.app/
 
 ## Available Scripts
 
@@ -67,4 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # Covid-19-Tracker
